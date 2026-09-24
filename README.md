@@ -44,21 +44,6 @@ This repository is intended to:
 * Help other learners understand the tasks and troubleshoot common issues.
 * Provide a reference for students working on similar cybersecurity labs.
 
-## Topics Covered
-
-The assignments cover various areas of cybersecurity, including:
-
-* Linux and command-line fundamentals
-* Networking
-* SSH
-* File permissions
-* System administration
-* Reconnaissance
-* Vulnerability assessment
-* Security tools
-* Practical cybersecurity labs
-* Other cybersecurity concepts introduced throughout the course
-
 This section will be updated as I progress through the remaining assignments.
 
 ## Disclaimer
